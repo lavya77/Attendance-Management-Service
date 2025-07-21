@@ -7,3 +7,4 @@ python-dotenv==1.1.0
 celery==5.5.3
 django-celery-results==2.6.0
 redis==6.2.0
+qrcode[pil]
